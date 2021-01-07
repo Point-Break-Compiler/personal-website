@@ -1,0 +1,193 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    
+}
+
+h1{
+
+    font-size: 70px;
+}
+#full{
+    color: rgb(80, 76, 76);
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+.word-color{
+    color: rgb(82, 0, 190);
+}
+
+.welcome{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.welcome img{
+
+    width: 70%;
+    margin-top: 10%;
+
+}
+
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(3, 23, 136), blue);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: snow;
+    font-size: 20px;
+    font-weight: 500px;
+}
+
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(3, 23, 136), blue);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: snow;
+    font-size: 20px;
+    font-weight: 500px;
+}
+
+.button3{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgba(224, 82, 16, 0.863), rgba(231, 92, 12, 0.753));
+    border-radius: 5px;
+    color: snow;
+    font-size: 20px;
+    font-weight: 500px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-left: -5%;
+    margin-right: -5%;
+    
+
+}
+
+
+.topbanner{
+    background-image: url("img/top-banner.png");
+    background-repeat: no-repeat;
+    
+    
+}
+
+.banner2{
+
+    background-image: url("img/background2.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section{
+    height: 500px;
+}
+
+h2{
+
+    font-size: 50px;
+}
+
+.about{
+    width: 40%;
+    float: right;
+    margin-top: 4%;
+    margin-right: 8%;
+    padding-right: 2%;
+}
+
+.about img{
+
+    width: 72%;
+    
+    margin-left:6%;
+    
+
+}
+
+.latest{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 5%;
+    font-size: 30px;
+}
+
+.latestcolor{
+    
+    color: rgb(199, 69, 8);
+}
+
+.latest-work{
+
+    width: 90%;
+    float: left;
+    margin: 5%;
+
+}
+
+.latest-img{
+
+    width: 20%;
+    float: left;
+    margin-left: 80px;
+    margin-right:80px;
+    overflow: hidden;
+
+}
+
+.div-img{
+
+    width: 100%;
+
+}
+
+
+.work-footer{
+
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    float: left;
+    margin-right: 180px;
+    margin-top: 2%;
+}
+
+.footer{
+
+    padding: 25px;
+    background-image: url("img/footer1.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    width: 70%;
+    height: 500px;
+    margin-left: 24%;
+    margin-right: 24%;
+    margin-top: 50%;
+    margin-bottom: 50px;
+
+}
+
+.footer-info{
+
+    margin: 10% 0%;
+    text-align: center;
+    width: 50%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.footer-info h2{
+    color: gray;
+    margin-top: -13px;
+    font-size: 30px;
+
+}
+
+.footer-info h3{
+    
+    margin-top: 30%;
+    
+}
